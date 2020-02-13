@@ -1,0 +1,82 @@
+#logo {
+    margin: 300px 750px;
+  }
+  
+  #apps{
+    position:absolute;
+    top: 24px;
+    right: 45px;
+  }
+  
+  #searchBar{
+    position:absolute;
+    left: 640px;
+    top: 430px;
+    width: 500px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 25px;
+    padding: 4px 20px;
+  }
+  
+  #searchButton {
+    position: absolute;
+    left: 770px;
+    top: 500px;
+    padding: 3px;
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+    border: 1px;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0px 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  #luckyButton {
+    position: absolute;
+    left: 910px;
+    top: 500px;
+    padding: 3px;
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+    border: 1px;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0px 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  #navBar li{
+    display: inline;
+    padding: 8px;
+    font-size: 13px;
+    font-family: "arial", "sans-serif";
+    color: DimGray;
+  }
+  
+  .left {
+    position: relative;
+    bottom: 705px;
+    
+  }
+  
+  .right {
+    position: relative;
+    bottom: 705px;
+    left: 1560px;
+  }
